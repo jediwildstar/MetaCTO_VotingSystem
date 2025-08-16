@@ -1,0 +1,17 @@
+PROMPT 1 - [2025-08-16]
+================================================================================
+Write each prompt I send to you into a file prompts.txt, so I can audit the work.
+
+I need to create a mini project, from scratch... I need a Voting System. I need to let users post a feature and upvote others. 
+
+I'm going to need a database, can be postgres
+
+An backend Api, in python is best
+
+and an frontend UI, native android...
+================================================================================
+
+PROMPT 2 - [2025-08-16]
+================================================================================
+Continue
+================================================================================
